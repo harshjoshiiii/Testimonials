@@ -1,2 +1,7 @@
 # Testimonials
-Developed a front-end website for my friend's testimonials using React, along with the useState hook for better state management. In this project, I learned how to fetch data and create UI for specific data sets.
+### Hosted Here: 
+#### Steps to Use This Project :
+* Clone the Repository : `git clone <repository-url>`
+* Install Dependencies : `npm install`
+* Install icons : `npm i react-toastify`
+* Run the Application  : `npm start`
